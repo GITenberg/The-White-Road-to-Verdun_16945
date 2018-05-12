@@ -1,0 +1,29 @@
+_repo: The-White-Road-to-Verdun_16945
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burke, Kathleen
+    birthdate: 1887
+    deathdate: 1958
+    gutenberg_agent_id: '4067'
+    url: http://www.gutenberg.org/2009/agents/4067
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16945'
+  lccn: '17008081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Anecdotes'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+title: The White Road to Verdun
+url: http://www.gutenberg.org/ebooks/16945
